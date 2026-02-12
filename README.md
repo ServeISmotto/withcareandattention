@@ -25,7 +25,6 @@ A beautiful, interactive Valentine's Day website template with parallax scrollin
    npm run dev
    ```
 
-3. **Open**: [http://localhost:3000](http://localhost:3000)
 
 ## ⚙️ Configuration
 
